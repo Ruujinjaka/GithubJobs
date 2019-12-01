@@ -1,7 +1,7 @@
 # GithubJobs
-See available jobs at Github
 
-**I created a react app that displays a list of Github jobs as well links to apply for them.**
+
+**A React app that displays a list of Github jobs as well links to apply for them.**
 
 
 ### IMPORTANT CONCEPTS AND ARCHITECTURE
