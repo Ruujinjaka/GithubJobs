@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.job{
+  width: 80%;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.25rem 10px;
+}
+
+.job:hover{
+  cursor: pointer;
+  color: #666666;
+}
+
+.job-company{
+  padding: 0 30px;
+}
+
+.job-dialog{
+  padding: 30px 50px;
+}
+
+.detail-logo{
+  height: 30px;
+  float: right;
+}
+
+.App-link {
+  color: #09d3ac;
+}
